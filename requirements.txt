@@ -1,0 +1,13 @@
+boto3==1.26.89
+uuid==1.30
+jupyter-events==0.5.0
+jupyter-ydoc==0.2.2
+jupyter_client==8.0.3
+jupyter_core==5.2.0
+jupyter_server==2.3.0
+jupyter_server_fileid==0.6.0
+jupyter_server_terminals==0.4.4
+jupyter_server_ydoc==0.6.1
+jupyterlab==3.6.1
+jupyterlab-pygments==0.2.2
+jupyterlab_server==2.19.0
